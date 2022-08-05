@@ -36,6 +36,7 @@ ___
 
 8. ##### We see another dog.
 ![](https://i.ibb.co/R3ZSpLr/2022-08-05-135554.png)
+
 9. ##### To completely close the site, go to the [Command line](https://www.computerhope.com/jargon/c/commandi.htm) and press CTRL + C.
 ___
 
