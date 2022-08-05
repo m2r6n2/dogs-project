@@ -17,7 +17,7 @@ ___
 
 ___
 
-###How to start a project
+### How to start a project
 1. ##### Open [VS](https://visualstudio.microsoft.com/ru/). 
 2. ##### Open [Command line](https://www.computerhope.com/jargon/c/commandi.htm).
 3. ##### Write on the [Command line](https://www.computerhope.com/jargon/c/commandi.htm).
